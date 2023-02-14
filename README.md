@@ -38,7 +38,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 Hello Microverse <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> This is the first Microverse project called Hello Microverse.
 
 **Hello-Microverse** is the first project in Microverse Program
 
